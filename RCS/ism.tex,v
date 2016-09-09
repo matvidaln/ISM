@@ -1,0 +1,233 @@
+head	1.1;
+access;
+symbols;
+locks
+	simon:1.1; strict;
+comment	@% @;
+
+
+1.1
+date	2011.03.24.02.47.22;	author simon;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@
+% $Header: /cvsroot/latex-beamer/latex-beamer/solutions/generic-talks/generic-ornate-15min-45min.en.tex,v 1.5 2007/01/28 20:48:23 tantau Exp $
+
+\documentclass[english,10pt]{beamer}
+
+
+% This file merged from solution template for talk is between 15min
+% and 45min long,
+% /sw/etc/texmf.local/doc/latex/beamer/solutions/generic-talks:
+% and /sw/etc/texmf.local/doc/latex/beamer/examples/a-lecture/
+
+\input{beamerexample-lecture-style.tex}
+
+
+
+
+\mode<article>
+{
+  \usetheme{Singapore}
+  % or ...
+
+%  \setbeamercovered{transparent}
+  % or whatever (possibly just delete it)
+}
+
+
+\usepackage{wrapfig}
+
+\usepackage[english]{babel}
+% or whatever
+
+\usepackage[latin1]{inputenc}
+% or whatever
+
+\usepackage{times}
+\usepackage[T1]{fontenc}
+% Or whatever. Note that the encoding and the font should match. If T1
+% does not look nice, try deleting the line with the fontenc.
+
+
+\title[ISM] % (optional, use only with long paper titles)
+{The Interstellar Medium}
+
+\subtitle
+{2011} % (optional)
+
+\author[] % (optional, use only with lots of authors)
+{S.~Casassus\inst{1}}
+% - Use the \inst{?} command only if the authors have different
+%   affiliation.
+
+\institute[] % (optional, but mostly needed)
+{
+  \inst{1}%
+  Universidad de Chile
+}
+% - Use the \inst command only if there are several affiliations.
+% - Keep it simple, no one is interested in your street address.
+
+\date[\today] % (optional)
+{\today}
+
+\subject{Talks}
+% This is only inserted into the PDF information catalog. Can be left
+% out. 
+
+
+
+% If you have a file called "university-logo-filename.xxx", where xxx
+% is a graphic format that can be processed by latex or pdflatex,
+% resp., then you can add a logo as follows:
+
+% \pgfdeclareimage[height=0.5cm]{university-logo}{university-logo-filename}
+% \logo{\pgfuseimage{university-logo}}
+
+
+
+% Delete this, if you do not want the table of contents to pop up at
+% the beginning of each subsection:
+%\AtBeginSubsection[]
+%{
+%  \begin{frame}<beamer>{Outline}
+%    \tableofcontents[currentsection,currentsubsection]
+%  \end{frame}
+%}
+
+
+% If you wish to uncover everything in a step-wise fashion, uncomment
+% the following command: 
+
+%\beamerdefaultoverlayspecification{<+->}
+
+
+
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{latexsym}
+
+
+\usepackage{times}                          %for nice fonts
+\usepackage{floatflt}                          
+
+\def\ls{\stackrel{<}{\small \sim}}
+\def\gs{\stackrel{>}{\small \sim}}
+
+%\def\gs{\mathrel{\raise1.16pt\hbox{$>$}\kern-7.0pt
+%\lower3.06pt\hbox{{$\scriptstyle \sim$}}}}
+%\def\ls{\mathrel{\raise1.16pt\hbox{$<$}\kern-7.0pt
+%\lower3.06pt\hbox{{$\scriptstyle \sim$}}}}
+
+%usepackage{pause}                          %required for ppower4
+%usepackage[bgadd]{background}                     %required for ppower4
+%usepackage{background}                     %required for ppower4
+%usepackage{pp4slide}                       %required for ppower4
+%
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+
+
+
+% Since this a solution template for a generic talk, very little can
+% be said about how it should be structured. However, the talk length
+% of between 15min and 45min and the theme suggest that you stick to
+% the following rules:  
+
+% - Exactly two or three sections (other than the summary).
+% - At *most* three subsections per section.
+% - Talk about 30s to 2min per frame. So there should be between about
+%   15 and 30 frames, all told.
+
+
+
+\def\ls{\stackrel{<}{\small \sim}}
+\def\gs{\stackrel{>}{\small \sim}}
+
+
+%\color{black}                             %for normal text
+%\foilhead{Plan}
+%\pagecolor{white}
+
+
+\renewcommand\abstractname{Programme}
+\begin{abstract} 
+
+
+
+
+%\bgaddcenter{\includegraphics[width=\textwidth,height=!]{helix_hst.jpg}}
+
+%\begin{center}
+
+\begin{columns}[t]
+\column{0.5\textwidth}
+
+\begin{description}
+\item[A] Introduction:  Observations of the ISM
+\item[B] Microscopic Processes (ref. Dyson
+\& Williams + Spitzer + Shu).
+\item[C] Astrophysics of Gaseous Nebulae (ref. Osterbrock +
+review de Williams).
+\end{description}
+
+
+\column{0.5\textwidth}
+
+\begin{description}
+\item[D] Interstellar Dust.
+\item[E] Dynamics of the ISM. 
+\item[F] Selectec topics: protoplanetary disks, planetary nebulae, SNRs.
+
+\end{description}
+%
+\end{columns}
+
+\medskip
+
+{\tt http:://www.das.uchile.cl/$\sim$simon}
+
+
+\end{abstract}
+
+
+
+\begin{frame}{Outline}
+  \tableofcontents
+  % You might wish to add the option [pausesections]
+\end{frame}
+
+
+\input{./A/A}
+%\input{./B/B}
+%\input{./C/C}
+%\input{./D/D}
+%\input{./E/E}
+
+
+
+
+
+
+\end{document}
+\endinput
+
+@

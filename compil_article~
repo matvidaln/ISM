@@ -1,0 +1,2 @@
+pdflatex ism_article.tex; bibtex ism_article; pdflatex ism_article;  pdflatex ism_article; 
+

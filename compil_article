@@ -1,0 +1,5 @@
+rm *.aux *.log *.out  *.snm *.nav 
+pdflatex ism_article.tex; 
+pdflatex ism_article.tex; 
+#bibtex ism_article; pdflatex ism_article;  pdflatex ism_article; 
+

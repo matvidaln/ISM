@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {english}
+\beamer@sectionintoc {1}{J shocks}{4}{5}{1}
+\beamer@sectionintoc {2}{C shocks}{15}{5}{2}
+\beamer@sectionintoc {3}{Supernova Remnants}{22}{5}{3}
+\beamer@sectionintoc {4}{Ionization fronts}{36}{5}{4}

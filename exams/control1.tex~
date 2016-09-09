@@ -1,0 +1,98 @@
+\documentclass[12pt,letterpaper]{article}
+%\usepackage{epsfig,graphics}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\topmargin}{0in}
+\setlength{\headheight}{0in}
+\setlength{\footskip}{0.3in}
+\setlength{\headsep}{0.1in}
+\setlength{\textheight}{22cm}
+\setlength{\textwidth}{16cm}
+%\setlength{\parindent}{0in}
+\setlength{\marginparsep}{0in}
+\setlength{\marginparwidth}{0in}
+\pagestyle{empty}
+%\usepackage{multicol}
+\def\gs{\mathrel{\raise1.16pt\hbox{$>$}\kern-7.0pt
+\lower3.06pt\hbox{{$\scriptstyle \sim$}}}}
+\def\ls{\mathrel{\raise1.16pt\hbox{$<$}\kern-7.0pt
+\lower3.06pt\hbox{{$\scriptstyle \sim$}}}}
+
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage[pdftex]{graphicx}               %for importing graphics
+
+\begin{document}
+
+
+
+\begin{tabular*}{\textwidth} {@{\extracolsep{\fill}}lcr} \\ 
+   {\bf  AS41B-1/AS735-1}~2008A & {\bf Control 1} &  {\small   Prof:      Simón Casassus} \\
+   {\small
+   7  de Mayo de 2008}  &  2~h30 & {\small \hspace{4cm} }\\
+   \hline
+\end{tabular*}
+\begin{center}
+\vspace{0.1cm} {\small (Desarrolle sus respuestas y {\bf cuide la
+presentación}. Sin calculadora ni apuntes.) }
+\end{center}
+
+\begin{flushleft}
+ \underline{Relaciones útiles.}
+Tasa de excitación colisional: $\langle \sigma v\rangle \propto T^{-1/2}
+\exp(-\chi/kT) $. Tasa de recombinación: $\alpha \propto T^{-1/2}$. 
+\end{flushleft}
+
+
+
+%\begin{flushleft}
+%\Large {\bf I} \underline{Equilibrio thermal}. 
+%\end{flushleft}
+%
+\begin{enumerate}
+
+%\item Modelos de region H\,{\sc ii}.
+
+%\begin{enumerate}
+
+\item Describir el espectro de HI, y sus mecanismos de excitación.
+
+\item Describir el espectro de H2, y sus mecanismos de excitación.
+
+\item Describir el espectro de CO, y sus mecanismos de excitación.
+
+\item Describir la estructura radial de una nube molecular hasta
+  llegar a la PDR, y los mecanismos de disociación de H2 .
+
+\item Escribir el balance de ionización local en estado estacionario,
+  dado un campo de intensidad específica promedio $J_{\nu}(\vec{r})$.
+
+\item ?`Cuales son las fuentes que contribuyen a $J_{\nu}(\vec{r})$ en
+  una región H\,{\sc ii}? Justifique y explique en qué consiste la
+  aproximación OTS.
+
+\item ?`Cuales son los 2 principales mecanismos de enfriamiento en una
+  región H\,{\sc ii}, y por qué? 
+
+\item ?`Cuales son los principales mecanismos de calentamiento en una
+  región H\,{\sc ii}, y en una PDR? 
+
+\item ?`Qué determina la temperatura de una región H\,{\sc ii}
+  fotoionizada? ?`Cuál es la temperatura de una región de hidrógeno
+  puro? ?`Y con metales?
+
+\item ?`Qué diagnósticos usaría para estimar la densidad de una nube?
+  Desarrolle y dé un ejemplo en el caso de una región H\,{\sc ii}.
+
+\item ?`Qué diagnósticos usaría para estimar la temperatura de una
+  nube?  Desarrolle y dé un ejemplo en el caso de una región H\,{\sc
+    ii}.
+
+\item Describir la discrepancia ORL/CEL, dando detalles sobre como se
+  estiman las abundancias. 
+
+\end{enumerate}
+
+\end{document}

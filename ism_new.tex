@@ -1,0 +1,157 @@
+\documentclass[compress,english,10pt]{beamer}
+
+%\usepackage{beamerarticle}
+
+%\documentclass[compress,english,10pt]{extarticle}
+%\usepackage{beamerarticle}
+
+
+\newlength{\figheight}
+\setlength{\figheight}{\textheight}  % for adjusting in articler mode (SIMON DEV)
+
+\newlength{\figheightscl}
+\setlength{\figheightscl}{0.7\textheight}  % for adjusting in articler mode (SIMON DEV)
+
+\newlength{\figwidth}
+\setlength{\figwidth}{\textwidth}  % for adjusting in articler mode (SIMON DEV)
+
+%\def\figwidth{\textwidth}  % for adjusting in articler mode (SIMON DEV)
+%\def\figheight{\textheight}
+%\def\figheightscl{0.7\textheight}  % for adjusting in articler mode (SIMON DEV)
+
+
+
+% This file merged from solution template for talk is between 15min
+% and 45min long,
+% /sw/etc/texmf.local/doc/latex/beamer/solutions/generic-talks:
+% and /sw/etc/texmf.local/doc/latex/beamer/examples/a-lecture/
+\input{ismstyle.tex}
+
+
+\bibliographystyle{mn2e}
+\usepackage{aas_macros}
+\usepackage[authoryear]{natbib}  % added by simon 3/7/08
+
+
+\usepackage{wrapfig}
+
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{latexsym}
+
+\renewcommand{\AA}{\text{\normalfont{A\!\!$^{\circ}$}}}
+\newcommand{\angstrom}{\text{\normalfont{A\!\!$^{\circ}$}}}
+%\usepackage{floatflt}                          
+
+\def\ls{\stackrel{<}{\small \sim}}
+\def\gs{\stackrel{>}{\small \sim}}
+
+%\def\gs{\mathrel{\raise1.16pt\hbox{$>$}\kern-7.0pt
+%\lower3.06pt\hbox{{$\scriptstyle \sim$}}}}
+%\def\ls{\mathrel{\raise1.16pt\hbox{$<$}\kern-7.0pt
+%\lower3.06pt\hbox{{$\scriptstyle \sim$}}}}
+
+%usepackage{pause}                          %required for ppower4
+%usepackage[bgadd]{background}                     %required for ppower4
+%usepackage{background}                     %required for ppower4
+%usepackage{pp4slide}                       %required for ppower4
+%
+
+
+\lecture[1]{ISM}{lecture-text}
+
+\subtitle{}
+
+\date{}
+
+
+%\setcounter{tocdepth}{1}
+
+
+\begin{document}
+
+
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+% Since this a solution template for a generic talk, very little can
+% be said about how it should be structured. However, the talk length
+% of between 15min and 45min and the theme suggest that you stick to
+% the following rules:  
+
+% - Exactly two or three sections (other than the summary).
+% - At *most* three subsections per section.
+% - Talk about 30s to 2min per frame. So there should be between about
+%   15 and 30 frames, all told.
+
+
+
+\def\ls{\stackrel{<}{\small \sim}}
+\def\gs{\stackrel{>}{\small \sim}}
+
+
+%\color{black}                             %for normal text
+%\foilhead{Plan}
+%\pagecolor{white}
+
+
+
+
+
+%\setbeamertemplate{sidebar right}
+%{
+%  {\usebeamerfont{title in sidebar}%
+%    \vskip1.5em%
+%    \hskip3pt%
+%    \usebeamercolor[fg]{title in sidebar}%
+%    \insertshorttitle[width=2cm-6pt,center,respectlinebreaks]\par%
+%    \vskip1.25em%
+%  }%
+%  {%
+%    \hskip3pt%
+%    \usebeamercolor[fg]{author in sidebar}%
+%    \usebeamerfont{author in sidebar}%
+%%    \insertshortauthor[width=2cm-2pt,center,respectlinebreaks]\par%
+%    \vskip1.25em%
+%  }%
+%  \hbox to2cm{\hss\insertlogo\hss}
+%  \vskip1.25em%
+%  \insertverticalnavigation{2cm}%
+%  \vfill
+%  \hbox to 2cm{\hfill\usebeamerfont{subsection in
+%      sidebar}\strut\usebeamercolor[fg]{subsection in
+%      sidebar}\insertshortlecture.\insertframenumber\hskip5pt}%
+%  \vskip3pt%
+%}%
+%
+%\logo{\includegraphics[width=2cm]{./A/welsh_fig16.png}}
+%\input{./A/A}
+
+
+
+
+
+\logo{\includegraphics[width=2cm]{./B/ArVI_pop.pdf}}
+\input{./B/B}
+
+%\input{./C/C}
+
+%\logo{\includegraphics[width=2cm]{./D/draine_araa_f7.pdf}}
+%\input{./D/D}
+
+%\logo{\includegraphics[width=2cm]{./E/logo_E.jpg}}
+%\input{./E/E}
+
+
+%\appendix
+
+%\newcommand\newblock{}
+
+%\bibliography{adssample}
+
+\end{document}
+\endinput

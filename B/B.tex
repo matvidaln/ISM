@@ -100,7 +100,6 @@ Requisites for a mechanism of radiative cooling
 \item large rate of $B$ excitations:  high  `collision strength'
 \item time scale for radiative decay of  $B^\star$ less than  $\tau_\mathrm{col}$ 
 \item large escape probability of the output $h\nu$.
-
 \end{itemize}
 \end{minipage} 
 \vfill
@@ -246,24 +245,69 @@ I,27):
 \includegraphics[width=\textwidth,height=!]{./B/ArVI_pop_xtd.pdf}
 \end{center}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \end{frame} \begin{frame}\frametitle{Cooling of H\,{\sc ii} regions}
 %\leftheader{B-\ref{item:Teq_cool_hii}:  Cooling of }
 
 %\end{frame} \begin{frame}\frametitle{\textcolor{red}{B$_1$} Enfr\'{\i}amento  de regiones H\,{\sc ii} }
 
-\begin{itemize}
-\item Collisional excitation of emission lines  (case of a nebula
-photoionised by OB stars):
-\begin{itemize}
-\item   $[$O\,{\sc ii}$]\lambda\lambda$3726,3729 ~ $\mathrm{^4S_{3/2} \leftarrow ^2\!D_{3/2,5/2} } $.
-\item   $[$O\,{\sc iii}$]\lambda\lambda$4959,5007 ~ $\mathrm{^3P_{2,1} \leftarrow ^1D_{2} } $.
-\end{itemize}
-\item continuum (free-free, bound-free):  $A + B   \rightarrow   A +
+For gas in a steady state, where every ionization event is balanced by
+a recombination event (case of a nebula photoionised by OB stars), the
+cooling mechanisms are:
+
+
+\begin{enumerate}
+
+\item Recombination radiation (postponed to chapter on photoionised nebulae)
+\item Continuum emission (free-free, bound-free):  $A + B   \rightarrow   A +
   B + h\nu $ (postponed to chapter on
   photoionised nebulae)
-\item recombination (postponed to chapter on photoionised nebulae)
+
+\item Collisionally excited line emission: 
+$$\Lambda_{CE}= \sum_X \sum_i n(X,i) \sum_{j < i} A_{i,j}\, (E_i -
+E_j)$$ e.g.
+\begin{itemize}
+\item   $[$O\,{\sc ii}$]\lambda\lambda$3726,3729 ~ $\mathrm{^4S_{3/2} \leftarrow ^2\!D_{3/2,5/2} } $.
+%\item   $[$S\,{\sc iii}$]\lambda\lambda$9071,9533 ~ $\mathrm{^3P_{2,1} \leftarrow ^1D_{2} } $.
+\item   $[$O\,{\sc iii}$]\lambda\lambda$4959,5007 ~ $\mathrm{^3P_{2,1} \leftarrow ^1D_{2} } $.
 \end{itemize}
+
+\end{enumerate}
+
+
+\end{frame} \begin{frame}\frametitle{Cooling of H\,{\sc ii} regions: collisionally excited line radiation}
+
+\begin{center}
+\includegraphics[width=0.8\textwidth,height=!]{./B/cooling_CE.png}
+\end{center}
+
+\end{frame} \begin{frame}\frametitle{Cooling of H\,{\sc ii} regions: collisionally excited line radiation}
+$z \sim z_{\odot}$
+\begin{center}
+\includegraphics[width=0.8\textwidth,height=!]{./B/heating_cooling.png}
+\end{center}
+
+
+\end{frame} \begin{frame}\frametitle{Cooling of H\,{\sc ii} regions: collisionally excited line radiation}
+$z \sim 0.1 z_{\odot}$
+\begin{center}
+\includegraphics[width=0.8\textwidth,height=!]{./B/cooling_01.png}
+\end{center}
+
+
+
+\end{frame} \begin{frame}\frametitle{Cooling of H\,{\sc ii} regions: collisionally excited line radiation}
+$z \sim 3 z_{\odot}$
+\begin{center}
+\includegraphics[width=0.8\textwidth,height=!]{./B/cooling_3x.png}
+\end{center}
+
+
+
+
 
 
 \end{frame} \begin{frame}\frametitle{Cooling of the neutral ISM}
@@ -274,7 +318,10 @@ photoionised by OB stars):
 %1455350.         [O I]       M1         3P-3P            1-0          158.26 -      226.98
 % 348152.         [Si II]     M1        2Po-2Po         1/2-3/2           .00 -      287.23
 
-examples: Table~3.1 in Dyson \& Williams complemented by the list of
+Occurs through excitation of low-lying electronic states, fine
+structure levels dominate.
+
+Examples: Table~3.1 in Dyson \& Williams complemented by the list of
 lines in {\tt http://www.pa.uky.edu/$\sim$peter/atomic/}
 
 \begin{center}
@@ -292,7 +339,7 @@ $[$O\,{\sc i}$]$~$\lambda$145.5\,$\mu$m ~ $\mathrm{^3P_{0} \leftarrow ^3P_{2} } 
 
 \end{frame} 
 
-\subsection{Molecular excitation \& molecular structure}
+%
 
 \begin{frame}\frametitle{Molecular excitation - CO \& H$_2$}
 
@@ -306,7 +353,7 @@ $[$O\,{\sc i}$]$~$\lambda$145.5\,$\mu$m ~ $\mathrm{^3P_{0} \leftarrow ^3P_{2} } 
 %Van Dishoeck, 2004, ARA\&A, 42, 119
 
 {\em ISO} observations (Van Dishoeck, 2004, ARA\&A, 42, 119)
-confirm that the contribution from H$_2$ cooling is more important
+suggest that the contribution from H$_2$ cooling is more important
 than estimates based on {\em IRAS} data: H$_2$ is among the brightest
 emission lines in molecular clouds exposed to UV radiation, as for
 instance in Orion~KL (note prominent dust continuuum):
@@ -336,6 +383,7 @@ sources in the denser media only, such as dense SNRs or dense
 circumstellar disks.
 
 %\includegraphics[width=0.7\textwidth,height=!]{./B/dishoeck_fig3.pdf}
+\centering\includegraphics[width=0.6\textwidth,height=!]{./B/grain_temp.png}
 
 \end{frame} \begin{frame}\frametitle{CO rotational-line cooling}
 %\begin{minipage}{12.5cm}
@@ -362,7 +410,7 @@ rotational transitions of CO in the sub-mm. (Figure 2.11 from Tielens
 
 
 %\subsubsection{Molecular structure}
-
+\subsection{Molecular excitation \& molecular structure}
 \begin{frame}\frametitle{Summary: diatomic molecules}
 
 In the Born-Oppenheimer approximation the Hamiltonian for a diatomic
@@ -768,16 +816,16 @@ Chap. 3.3.1), is
 ,\]
 
 where the electron escape probability $Y$ is the ratio between the
-e$^-$ - e$^-$ mean free path $l_e \approx 10~$\AA, and the absorption
-depth of UV radiation, $l_a \approx 100~$\AA: $Y \approx l_e /
-l_a$. $W$ is the work function of the grain and $\phi = Z \times e^2 /
-a$ is the surface potential for a grain of size $a$. The ionization
-potential of a grain is thus $ I = W + \phi$. \\ The heating
-efficiency is larger for smaller grains, since $l_a \approx l_e$.
-{\large The ejection of photoelectrons from grains is the dominant
-heating source in the neutral ISM exposed to FUV radiation, as in the
-case of PDRs. Photoionisation is dominant in the case of the ionised
-gas.}
+e$^-$ - e$^-$ mean free path $l_e \approx 10~$\angstrom, and the
+absorption depth of UV radiation, $l_a \approx 100~$\angstrom :
+$Y \approx l_e /l_a$.  $W$ is the work function of the grain and $\phi
+= Z \times e^2 / a$ is the surface potential for a grain of size
+$a$. The ionization potential of a grain is thus $ I = W + \phi$. \\
+The heating efficiency is larger for smaller grains, since
+$l_a \approx l_e$.  {\large The ejection of photoelectrons from grains
+is the dominant heating source in the neutral ISM exposed to FUV
+radiation, as in the case of PDRs. Photoionisation is dominant in the
+case of the ionised gas.}
 \end{itemize}
 
 
@@ -887,7 +935,7 @@ and the grain acts as stabilizing agent by absorbing the excess energy
 of $AB^\star$. 
 
 Once H$_2$ is formed, its 4.48~eV of binding energy (the first
-bound-free transition is at 2500~\AA) eject H$_2$ from the grain
+bound-free transition is at 2500~\angstrom) eject H$_2$ from the grain
 surface, and the excess of energy over the grain work function is
 distributed over the molecular degrees of freedom, leaving the H$_2$
 molecule in an excited state. 

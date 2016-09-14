@@ -43,6 +43,14 @@
 
 \renewcommand{\AA}{\text{\normalfont{A\!\!$^{\circ}$}}}
 \newcommand{\angstrom}{\text{\normalfont{A\!\!$^{\circ}$}}}
+
+\newcounter{saveenumi}
+\newcommand{\seti}{\setcounter{saveenumi}{\value{enumi}}}
+\newcommand{\conti}{\setcounter{enumi}{\value{saveenumi}}}
+
+\resetcounteronoverlays{saveenumi}
+
+
 %\usepackage{floatflt}                          
 
 \def\ls{\stackrel{<}{\small \sim}}

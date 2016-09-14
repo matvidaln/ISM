@@ -767,7 +767,9 @@ Example excitation diagram for the Helix nebula.
 %
 \vfill
               
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \end{frame}
 
@@ -783,19 +785,12 @@ spectra of HD210839 and HD154368 (Rachford et al., 2002, ApJ, 577,
 \includegraphics[width=\textwidth,height=!]{./B/fuse_H2}
 \vfill
 
-\end{frame} \begin{frame}\frametitle{}
+\end{frame} \begin{frame}\frametitle{Heating mechanisms}
 
-\begin{itemize}
-\item heating by photodissociation and photoionisation: 
-\[AB ~  + ~h\nu ~\rightarrow~ A +~ B, \]
-dominated by  $H_2$ photodissociation. 
+\begin{enumerate}
 
-\item collisional de-excitation (in particular for H$_2$, when  
-$n(\mathrm{H}_2) > 10^4~$cm$^{-3}$).
-
-
-\item heating by photoionisation: 
-\[A ~  + ~h\nu ~\rightarrow~ A^+  + e, \]
+\item Photoionisation: 
+\[A ~  + ~h\nu ~\rightarrow~ A^+ + e, \]
 in the case of the neutral ISM, photoionisation heating is dominated
 by C$^+$, with an ionization potential of 11.3~eV. The average kinetic
 enery of the ejected electron is 
@@ -803,11 +798,18 @@ enery of the ejected electron is
 -\nu_i) d\nu}{\int_{\nu_i}^{\infty} (J(\nu)/h\nu) \alpha_i(\nu)d\nu
  }. \]
 
-\end{itemize}
+\item Photodissociation: 
+\[AB ~  + ~h\nu ~\rightarrow~ A +~ B + KE, \]
+dominated by $H_2$ photodissociation.
+\item collisional de-excitation (in particular for H$_2$, when  
+$n(\mathrm{H}_2) > 10^4~$cm$^{-3}$).
+\seti
+\end{enumerate}
 
 \end{frame} \begin{frame}\frametitle{}
 
-\begin{itemize}
+\begin{enumerate}
+\conti
 \item photoelectric effect on dust grains. \\
 The grain heating efficiency, $\epsilon_\mathrm{grain}$, defined as the
 ratio between output gas heating and input UV radiation (Tielens
@@ -826,10 +828,12 @@ $l_a \approx l_e$.  {\large The ejection of photoelectrons from grains
 is the dominant heating source in the neutral ISM exposed to FUV
 radiation, as in the case of PDRs. Photoionisation is dominant in the
 case of the ionised gas.}
-\end{itemize}
+\seti
+\end{enumerate}
 
 
 \end{frame} \begin{frame}\frametitle{}
+
 \begin{itemize}
 \item The total photoelectric  heating  rate from grains per unit volume, $n\,\Gamma_\mathrm{grain}$, can be written:
 \[ n\,\Gamma_\mathrm{grain} = \int_{a_\mathrm{min}}^{a_\mathrm{max}}
@@ -847,7 +851,8 @@ larger than the gas temperature.
 \end{frame} \begin{frame}\frametitle{}
 
 
-\begin{itemize}
+\begin{enumerate}
+\conti
 \item heating from cosmic rays:\\
 Important for molecular phase. Cosmic rays, as well as X-rays, ionise H$_2$ (IP=15.4~eV):
 \[ \mathrm{H}_2 + (p,e^-,\alpha,X) \rightarrow \mathrm{H}_2^+ + e^- +  (p,e^-,\alpha,X)^\prime,
@@ -861,12 +866,14 @@ dissociative recombination,
   formation and the destructionof H$_3^+$ are exothermic (the energy
   released into the ISM in the process is 11~eV), the 
   H$_3^+$ cycle is a heating source of the ISM.
-\end{itemize}
+\seti
+\end{enumerate}
 
 \end{frame} \begin{frame}\frametitle{}
 
 
-\begin{itemize}
+\begin{enumerate}
+\conti
 \item Turbulent heating.
 
 Important in molecular clouds at $\sim 10~$K, without UV field. 
@@ -886,10 +893,28 @@ given scale $l$ leads to an estimate of turbulent heating.
 
 The energy densities as a function of scale can be calculated assuming
 a constant energy transfer rate: $ v^2 / (l/v)$ is constant. 
+\seti
+\end{enumerate}
 
-\end{itemize}
+\end{frame} \begin{frame}\frametitle{}
 
+\rotatebox{0}{\includegraphics[width=0.9\textwidth,height=!]{./B/heating_DC.png}}
 
+\end{frame} \begin{frame}\frametitle{}
+
+\rotatebox{0}{\includegraphics[width=0.9\textwidth,height=!]{./B/heating_WNM.png}}
+
+\end{frame} \begin{frame}\frametitle{}
+
+\rotatebox{0}{\includegraphics[width=0.9\textwidth,height=!]{./B/heating_MC.png}}
+
+\end{frame} \begin{frame}\frametitle{Steady state temp. for HI}
+
+\rotatebox{0}{\includegraphics[width=0.8\textwidth,height=!]{./B/temp_nh.png}}
+
+\end{frame} \begin{frame}\frametitle{Two phases for HI}
+
+\rotatebox{0}{\includegraphics[width=0.8\textwidth,height=!]{./B/temp_p.png}}
 
 \end{frame}
 
@@ -897,7 +922,7 @@ a constant energy transfer rate: $ v^2 / (l/v)$ is constant.
 
 \subsection{Grain catalysis}
 
- \begin{frame}\frametitle{Molecule formation}
+\begin{frame}\frametitle{Molecule formation}
 
 
 

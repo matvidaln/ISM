@@ -113,51 +113,61 @@
 \headcommand {\beamer@framepages {50}{50}}
 \headcommand {\slideentry {1}{5}{7}{51/51}{Heating of the ISM}{2}}
 \headcommand {\beamer@framepages {51}{51}}
-\headcommand {\sectionentry {2}{Molecule formation}{52}{Molecule formation}{2}}
-\headcommand {\beamer@sectionpages {3}{51}}
-\headcommand {\beamer@subsectionpages {45}{51}}
-\headcommand {\beamer@subsectionentry {2}{2}{1}{52}{Grain catalysis}}\headcommand {\beamer@subsectionpages {52}{51}}
-\headcommand {\slideentry {2}{1}{1}{52/52}{Grain catalysis}{2}}
+\headcommand {\slideentry {1}{5}{8}{52/52}{Heating of the ISM}{2}}
 \headcommand {\beamer@framepages {52}{52}}
-\headcommand {\slideentry {2}{1}{2}{53/53}{Grain catalysis}{2}}
+\headcommand {\slideentry {1}{5}{9}{53/53}{Heating of the ISM}{2}}
 \headcommand {\beamer@framepages {53}{53}}
-\headcommand {\slideentry {2}{1}{3}{54/54}{Grain catalysis}{2}}
+\headcommand {\slideentry {1}{5}{10}{54/54}{Heating of the ISM}{2}}
 \headcommand {\beamer@framepages {54}{54}}
-\headcommand {\beamer@subsectionentry {2}{2}{2}{55}{Ion-molecule chemistry}}\headcommand {\beamer@subsectionpages {52}{54}}
-\headcommand {\slideentry {2}{2}{1}{55/55}{Ion-molecule chemistry}{2}}
+\headcommand {\slideentry {1}{5}{11}{55/55}{Heating of the ISM}{2}}
 \headcommand {\beamer@framepages {55}{55}}
-\headcommand {\slideentry {2}{2}{2}{56/56}{Ion-molecule chemistry}{2}}
+\headcommand {\slideentry {1}{5}{12}{56/56}{Heating of the ISM}{2}}
 \headcommand {\beamer@framepages {56}{56}}
-\headcommand {\slideentry {2}{2}{3}{57/57}{Ion-molecule chemistry}{2}}
+\headcommand {\sectionentry {2}{Molecule formation}{57}{Molecule formation}{2}}
+\headcommand {\beamer@sectionpages {3}{56}}
+\headcommand {\beamer@subsectionpages {45}{56}}
+\headcommand {\beamer@subsectionentry {2}{2}{1}{57}{Grain catalysis}}\headcommand {\beamer@subsectionpages {57}{56}}
+\headcommand {\slideentry {2}{1}{1}{57/57}{Grain catalysis}{2}}
 \headcommand {\beamer@framepages {57}{57}}
-\headcommand {\slideentry {2}{2}{4}{58/58}{Ion-molecule chemistry}{2}}
+\headcommand {\slideentry {2}{1}{2}{58/58}{Grain catalysis}{2}}
 \headcommand {\beamer@framepages {58}{58}}
-\headcommand {\beamer@subsectionentry {2}{2}{3}{59}{Observational validation}}\headcommand {\beamer@subsectionpages {55}{58}}
-\headcommand {\slideentry {2}{3}{1}{59/59}{Observational validation}{2}}
+\headcommand {\slideentry {2}{1}{3}{59/59}{Grain catalysis}{2}}
 \headcommand {\beamer@framepages {59}{59}}
-\headcommand {\slideentry {2}{3}{2}{60/60}{Observational validation}{2}}
+\headcommand {\beamer@subsectionentry {2}{2}{2}{60}{Ion-molecule chemistry}}\headcommand {\beamer@subsectionpages {57}{59}}
+\headcommand {\slideentry {2}{2}{1}{60/60}{Ion-molecule chemistry}{2}}
 \headcommand {\beamer@framepages {60}{60}}
-\headcommand {\slideentry {2}{3}{3}{61/61}{Observational validation}{2}}
+\headcommand {\slideentry {2}{2}{2}{61/61}{Ion-molecule chemistry}{2}}
 \headcommand {\beamer@framepages {61}{61}}
-\headcommand {\slideentry {2}{3}{4}{62/62}{Observational validation}{2}}
+\headcommand {\slideentry {2}{2}{3}{62/62}{Ion-molecule chemistry}{2}}
 \headcommand {\beamer@framepages {62}{62}}
-\headcommand {\slideentry {2}{3}{5}{63/63}{Observational validation}{2}}
+\headcommand {\slideentry {2}{2}{4}{63/63}{Ion-molecule chemistry}{2}}
 \headcommand {\beamer@framepages {63}{63}}
-\headcommand {\slideentry {2}{3}{6}{64/64}{Observational validation}{2}}
+\headcommand {\beamer@subsectionentry {2}{2}{3}{64}{Observational validation}}\headcommand {\beamer@subsectionpages {60}{63}}
+\headcommand {\slideentry {2}{3}{1}{64/64}{Observational validation}{2}}
 \headcommand {\beamer@framepages {64}{64}}
-\headcommand {\beamer@subsectionentry {2}{2}{4}{65}{Chemical fractionation}}\headcommand {\beamer@subsectionpages {59}{64}}
-\headcommand {\slideentry {2}{4}{1}{65/65}{Chemical fractionation}{2}}
+\headcommand {\slideentry {2}{3}{2}{65/65}{Observational validation}{2}}
 \headcommand {\beamer@framepages {65}{65}}
-\headcommand {\slideentry {2}{4}{2}{66/66}{Chemical fractionation}{2}}
+\headcommand {\slideentry {2}{3}{3}{66/66}{Observational validation}{2}}
 \headcommand {\beamer@framepages {66}{66}}
-\headcommand {\slideentry {2}{4}{3}{67/67}{Chemical fractionation}{2}}
+\headcommand {\slideentry {2}{3}{4}{67/67}{Observational validation}{2}}
 \headcommand {\beamer@framepages {67}{67}}
-\headcommand {\slideentry {2}{4}{4}{68/68}{Chemical fractionation}{2}}
+\headcommand {\slideentry {2}{3}{5}{68/68}{Observational validation}{2}}
 \headcommand {\beamer@framepages {68}{68}}
-\headcommand {\slideentry {2}{4}{5}{69/69}{Chemical fractionation}{2}}
+\headcommand {\slideentry {2}{3}{6}{69/69}{Observational validation}{2}}
 \headcommand {\beamer@framepages {69}{69}}
-\headcommand {\beamer@partpages {2}{69}}
-\headcommand {\beamer@subsectionpages {65}{69}}
-\headcommand {\beamer@sectionpages {52}{69}}
-\headcommand {\beamer@documentpages {69}}
-\headcommand {\def \inserttotalframenumber {69}}
+\headcommand {\beamer@subsectionentry {2}{2}{4}{70}{Chemical fractionation}}\headcommand {\beamer@subsectionpages {64}{69}}
+\headcommand {\slideentry {2}{4}{1}{70/70}{Chemical fractionation}{2}}
+\headcommand {\beamer@framepages {70}{70}}
+\headcommand {\slideentry {2}{4}{2}{71/71}{Chemical fractionation}{2}}
+\headcommand {\beamer@framepages {71}{71}}
+\headcommand {\slideentry {2}{4}{3}{72/72}{Chemical fractionation}{2}}
+\headcommand {\beamer@framepages {72}{72}}
+\headcommand {\slideentry {2}{4}{4}{73/73}{Chemical fractionation}{2}}
+\headcommand {\beamer@framepages {73}{73}}
+\headcommand {\slideentry {2}{4}{5}{74/74}{Chemical fractionation}{2}}
+\headcommand {\beamer@framepages {74}{74}}
+\headcommand {\beamer@partpages {2}{74}}
+\headcommand {\beamer@subsectionpages {70}{74}}
+\headcommand {\beamer@sectionpages {57}{74}}
+\headcommand {\beamer@documentpages {74}}
+\headcommand {\def \inserttotalframenumber {74}}

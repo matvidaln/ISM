@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.1.13)  9 SEP 2016 20:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.1.13)  14 SEP 2016 11:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -869,27 +869,29 @@ Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
-) (./ism_new.aux)
+)
+\c@saveenumi=\count173
+ (./ism_new.aux)
 \openout1 = `ism_new.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -927,16 +929,16 @@ LaTeX Font Info:    ... okay on input line 73.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count173
+\scratchcounter=\count174
 \scratchdimen=\dimen208
 \scratchbox=\box60
-\nofMPsegments=\count174
-\nofMParguments=\count175
+\nofMPsegments=\count175
+\nofMParguments=\count176
 \everyMPshowfont=\toks48
-\MPscratchCnt=\count176
+\MPscratchCnt=\count177
 \MPscratchDim=\dimen209
-\MPnumerator=\count177
-\makeMPintoPDFobject=\count178
+\MPnumerator=\count178
+\makeMPintoPDFobject=\count179
 \everyMPtoPDFconversion=\toks49
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -955,7 +957,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 73.
+Package hyperref Info: Link coloring OFF on input line 81.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -963,58 +965,58 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count179
+\c@section@level=\count180
 )
-LaTeX Info: Redefining \ref on input line 73.
-LaTeX Info: Redefining \pageref on input line 73.
-LaTeX Info: Redefining \nameref on input line 73.
+LaTeX Info: Redefining \ref on input line 81.
+LaTeX Info: Redefining \pageref on input line 81.
+LaTeX Info: Redefining \nameref on input line 81.
 
 (./ism_new.out) (./ism_new.out)
 \@outlinefile=\write5
 \openout5 = `ism_new.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 73.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 73.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 81.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 73.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 73.
+(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 73.
+(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 73.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 73.
+(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 73.
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 73.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 73.
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 73.
+(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 73.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 73.
+(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 73.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 73.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 81.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 73.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 81.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 73.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/ptm/bx/n on input line 73.
+(Font)                  OT1/cmss/bx/n --> T1/ptm/bx/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 73.
+(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 73.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 73.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 73.
+(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 81.
 
 (/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-basic-dicti
 onary/translator-basic-dictionary-English.dict
@@ -1040,46 +1042,46 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 73.
-\c@lstlisting=\count180
+LaTeX Info: Redefining \includegraphics on input line 81.
+\c@lstlisting=\count181
  (./ism_new.nav)
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 79.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 87.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 79.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 79.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 87.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 87.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 79.
+LaTeX Font Info:    Try loading font information for U+msa on input line 87.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 79.
+LaTeX Font Info:    Try loading font information for U+msb on input line 87.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 79.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 87.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 79.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 87.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 79.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 87.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 79.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 87.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <5> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 79.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 87.
 
 <helix_hst.jpg, id=62, 578.16pt x 578.16pt>
 File: helix_hst.jpg Graphic file (type jpg)
  <use helix_hst.jpg>
-Package pdftex.def Info: helix_hst.jpg used on input line 79.
+Package pdftex.def Info: helix_hst.jpg used on input line 87.
 (pdftex.def)             Requested size: 56.9055pt x 56.90189pt.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -1550,25 +1552,25 @@ Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 753.
 File: ./B/dishoeck_fig13.pdf Graphic file (type pdf)
 
 <use ./B/dishoeck_fig13.pdf>
-Package pdftex.def Info: ./B/dishoeck_fig13.pdf used on input line 772.
+Package pdftex.def Info: ./B/dishoeck_fig13.pdf used on input line 774.
 (pdftex.def)             Requested size: 195.18513pt x 264.88907pt.
 
 <./B/ZOPH_IRACrgb.pdf, id=908, 543.02875pt x 673.51625pt>
 File: ./B/ZOPH_IRACrgb.pdf Graphic file (type pdf)
 
 <use ./B/ZOPH_IRACrgb.pdf>
-Package pdftex.def Info: ./B/ZOPH_IRACrgb.pdf used on input line 772.
+Package pdftex.def Info: ./B/ZOPH_IRACrgb.pdf used on input line 774.
 (pdftex.def)             Requested size: 111.53314pt x 138.32864pt.
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 772.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 774.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
  [44
 
  <./B/dishoeck_fig13.pdf> <./B/ZOPH_IRACrgb.pdf>] (./ism_new.toc)
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 775.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 777.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
  [45
 
@@ -1576,19 +1578,19 @@ Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 775.
 <./B/fuse_H2.pdf, id=959, 505.89pt x 361.35pt>
 File: ./B/fuse_H2.pdf Graphic file (type pdf)
  <use ./B/fuse_H2.pdf>
-Package pdftex.def Info: ./B/fuse_H2.pdf used on input line 786.
+Package pdftex.def Info: ./B/fuse_H2.pdf used on input line 788.
 (pdftex.def)             Requested size: 278.83713pt x 199.17319pt.
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
 
 <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 786.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 788.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
  [46
 
  <./B/fuse_H2.pdf>]
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 808.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 809.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
  [47
 
@@ -1596,21 +1598,21 @@ Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 808.
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
 
 <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 832.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 835.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
  [48
 
 ]
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 847.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 851.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
  [49
 
 ]
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 866.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 872.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
 
 [50
@@ -1618,189 +1620,255 @@ Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 866.
 ]
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 894.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 899.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
  [51
 
-] (./ism_new.toc)
-File: ./B/ArVI_pop.pdf Graphic file (type pdf)
- <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 898.
-(pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
-
-[52
-
 ]
+<./B/heating_DC.png, id=1066, 759.83875pt x 479.7925pt>
+File: ./B/heating_DC.png Graphic file (type png)
+
+<use ./B/heating_DC.png>
+Package pdftex.def Info: ./B/heating_DC.png used on input line 903.
+(pdftex.def)             Requested size: 250.9517pt x 158.45647pt.
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 930.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 903.
+(pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
+ [52
+
+ <./B/heating_DC.png>]
+<./B/heating_WNM.png, id=1084, 646.415pt x 448.67625pt>
+File: ./B/heating_WNM.png Graphic file (type png)
+
+<use ./B/heating_WNM.png>
+Package pdftex.def Info: ./B/heating_WNM.png used on input line 907.
+(pdftex.def)             Requested size: 250.9517pt x 174.18202pt.
+File: ./B/ArVI_pop.pdf Graphic file (type pdf)
+ <use ./B/ArVI_pop.pdf>
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 907.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
  [53
 
-]
-File: ./B/ArVI_pop.pdf Graphic file (type pdf)
- <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 951.
-(pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [54
-
-] (./ism_new.toc)
+ <./B/heating_WNM.png>]
+<./B/heating_MC.png, id=1102, 754.82pt x 505.89pt>
+File: ./B/heating_MC.png Graphic file (type png)
+ <use ./B/heating_MC.png>
+Package pdftex.def Info: ./B/heating_MC.png used on input line 911.
+(pdftex.def)             Requested size: 250.9517pt x 168.18701pt.
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
 
 <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 953.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 911.
+(pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
+ [54
+
+ <./B/heating_MC.png>]
+<./B/temp_nh.png, id=1120, 668.4975pt x 683.55376pt>
+File: ./B/temp_nh.png Graphic file (type png)
+ <use ./B/temp_nh.png>
+Package pdftex.def Info: ./B/temp_nh.png used on input line 915.
+(pdftex.def)             Requested size: 223.07054pt x 228.09753pt.
+File: ./B/ArVI_pop.pdf Graphic file (type pdf)
+
+<use ./B/ArVI_pop.pdf>
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 915.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
  [55
+
+ <./B/temp_nh.png>]
+<./B/temp_p.png, id=1139, 680.5425pt x 675.52374pt>
+File: ./B/temp_p.png Graphic file (type png)
+ <use ./B/temp_p.png>
+Package pdftex.def Info: ./B/temp_p.png used on input line 919.
+(pdftex.def)             Requested size: 223.07054pt x 221.41861pt.
+File: ./B/ArVI_pop.pdf Graphic file (type pdf)
+
+<use ./B/ArVI_pop.pdf>
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 919.
+(pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
+ [56
+
+ <./B/temp_p.png>] (./ism_new.toc)
+File: ./B/ArVI_pop.pdf Graphic file (type pdf)
+
+<use ./B/ArVI_pop.pdf>
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 923.
+(pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
+ [57
+
+]
+File: ./B/ArVI_pop.pdf Graphic file (type pdf)
+ <use ./B/ArVI_pop.pdf>
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 955.
+(pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
+ [58
 
 ]
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
 Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 976.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [56
+
+[59
+
+] (./ism_new.toc)
+File: ./B/ArVI_pop.pdf Graphic file (type pdf)
+ <use ./B/ArVI_pop.pdf>
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 978.
+(pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
+ [60
 
 ]
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1004.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1001.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
 
-[57
+[61
 
-] <./B/C_network_2.jpg, id=1190, 247.4954pt x 310.54301pt>
+]
+File: ./B/ArVI_pop.pdf Graphic file (type pdf)
+ <use ./B/ArVI_pop.pdf>
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1029.
+(pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
+ [62
+
+]
+<./B/C_network_2.jpg, id=1282, 247.4954pt x 310.54301pt>
 File: ./B/C_network_2.jpg Graphic file (type jpg)
 
 <use ./B/C_network_2.jpg>
-Package pdftex.def Info: ./B/C_network_2.jpg used on input line 1013.
+Package pdftex.def Info: ./B/C_network_2.jpg used on input line 1038.
 (pdftex.def)             Requested size: 167.30397pt x 209.92969pt.
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1013.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1038.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [58
+ [63
 
  <./B/C_network_2.jpg>]
 (./ism_new.toc)
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1015.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1040.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [59
+ [64
 
 ]
-Underfull \hbox (badness 4341) in paragraph at lines 1044--1044
+Underfull \hbox (badness 4341) in paragraph at lines 1069--1069
 \T1/phv/m/n/10 2503), with an abun-dance
  []
 
 
-Underfull \hbox (badness 2970) in paragraph at lines 1044--1044
+Underfull \hbox (badness 2970) in paragraph at lines 1069--1069
 []\T1/phv/m/n/10 H$[]$ does not have elec-tric
  []
 
-<./B/h3_levels.jpg, id=1235, 244.12807pt x 309.17107pt>
+<./B/h3_levels.jpg, id=1327, 244.12807pt x 309.17107pt>
 File: ./B/h3_levels.jpg Graphic file (type jpg)
 
 <use ./B/h3_levels.jpg>
-Package pdftex.def Info: ./B/h3_levels.jpg used on input line 1044.
+Package pdftex.def Info: ./B/h3_levels.jpg used on input line 1069.
 (pdftex.def)             Requested size: 139.41856pt x 176.56427pt.
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1044.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1069.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [60
+ [65
 
  <./B/h3_levels.jpg>]
-Overfull \vbox (0.70953pt too high) detected at line 1076
+Overfull \vbox (0.70953pt too high) detected at line 1101
  []
 
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
 <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1076.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1101.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [61
+ [66
 
 ]
-<./B/h3_rawspec.jpg, id=1272, 310.47192pt x 211.60657pt>
+<./B/h3_rawspec.jpg, id=1362, 310.47192pt x 211.60657pt>
 File: ./B/h3_rawspec.jpg Graphic file (type jpg)
 
 <use ./B/h3_rawspec.jpg>
-Package pdftex.def Info: ./B/h3_rawspec.jpg used on input line 1081.
+Package pdftex.def Info: ./B/h3_rawspec.jpg used on input line 1106.
 (pdftex.def)             Requested size: 278.83713pt x 190.04376pt.
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1081.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1106.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [62
+ [67
 
  <./B/h3_rawspec.jpg>]
-<./B/h3_discspec.jpg, id=1290, 322.61328pt x 208.1376pt>
+<./B/h3_discspec.jpg, id=1382, 322.61328pt x 208.1376pt>
 File: ./B/h3_discspec.jpg Graphic file (type jpg)
 
 <use ./B/h3_discspec.jpg>
-Package pdftex.def Info: ./B/h3_discspec.jpg used on input line 1086.
+Package pdftex.def Info: ./B/h3_discspec.jpg used on input line 1111.
 (pdftex.def)             Requested size: 278.83713pt x 179.90315pt.
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1086.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1111.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [63
+ [68
 
  <./B/h3_discspec.jpg>]
-<./B/h3_other.jpg, id=1308, 303.534pt x 205.82497pt>
+<./B/h3_other.jpg, id=1400, 303.534pt x 205.82497pt>
 File: ./B/h3_other.jpg Graphic file (type jpg)
  <use ./B/h3_other.jpg>
-Package pdftex.def Info: ./B/h3_other.jpg used on input line 1092.
+Package pdftex.def Info: ./B/h3_other.jpg used on input line 1117.
 (pdftex.def)             Requested size: 278.83713pt x 189.0786pt.
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
 
 <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1092.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1117.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [64
+ [69
 
  <./B/h3_other.jpg>] (./ism_new.toc)
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
 
 <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1094.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1119.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [65
+ [70
 
 ]
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1106.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1131.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [66
-
-]
-File: ./B/ArVI_pop.pdf Graphic file (type pdf)
- <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1121.
-(pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
-
-[67
+ [71
 
 ]
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
 Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1146.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [68
+
+[72
 
 ]
-<./B/vandishoeck_fig4_straight.jpg, id=1407, 394.10075pt x 275.10634pt>
+File: ./B/ArVI_pop.pdf Graphic file (type pdf)
+ <use ./B/ArVI_pop.pdf>
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1171.
+(pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
+ [73
+
+]
+<./B/vandishoeck_fig4_straight.jpg, id=1499, 394.10075pt x 275.10634pt>
 File: ./B/vandishoeck_fig4_straight.jpg Graphic file (type jpg)
 
 <use ./B/vandishoeck_fig4_straight.jpg>
 Package pdftex.def Info: ./B/vandishoeck_fig4_straight.jpg used on input line 1
-165.
+190.
 (pdftex.def)             Requested size: 136.63171pt x 95.37773pt.
 File: ./B/ArVI_pop.pdf Graphic file (type pdf)
  <use ./B/ArVI_pop.pdf>
-Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1165.
+Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1190.
 (pdftex.def)             Requested size: 56.9055pt x 33.47905pt.
- [69
+ [74
 
  <./B/vandishoeck_fig4_straight.jpg>])
 \tf@nav=\write6
@@ -1812,20 +1880,20 @@ Package pdftex.def Info: ./B/ArVI_pop.pdf used on input line 1165.
 \tf@snm=\write8
 \openout8 = `ism_new.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
  (./ism_new.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
 Package rerunfilecheck Info: File `ism_new.out' has not changed.
-(rerunfilecheck)             Checksum: 647A5A77AED1A30AA2C86B0BAD73EECE;897.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
+(rerunfilecheck)             Checksum: 25949B0C837CDC5EF391270643139014;897.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 164.
  ) 
 Here is how much of TeX's memory you used:
- 21327 strings out of 495028
- 387342 string characters out of 6181497
+ 21379 strings out of 495028
+ 388094 string characters out of 6181497
  469994 words of memory out of 5000000
- 23777 multiletter control sequences out of 15000+600000
+ 23814 multiletter control sequences out of 15000+600000
  107561 words of font info for 131 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  50i,17n,72p,396b,678s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1853,10 +1921,10 @@ r/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on ism_new.pdf (69 pages, 2753303 bytes).
+Output written on ism_new.pdf (74 pages, 3005229 bytes).
 PDF statistics:
- 1540 PDF objects out of 1728 (max. 8388607)
- 1399 compressed objects within 14 object streams
- 153 named destinations out of 1000 (max. 500000)
- 254 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1635 PDF objects out of 1728 (max. 8388607)
+ 1483 compressed objects within 15 object streams
+ 163 named destinations out of 1000 (max. 500000)
+ 279 words of extra memory for PDF output out of 10000 (max. 10000000)
 

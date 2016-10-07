@@ -1,6 +1,13 @@
 \select@language {english}
-\contentsline {part}{V\hspace {1em}Dynamics of the ISM}{1}{part.5}
-\contentsline {section}{\numberline {1}J shocks}{1}{section.1}
-\contentsline {section}{\numberline {2}C shocks}{6}{section.2}
-\contentsline {section}{\numberline {3}Supernova Remnants}{8}{section.3}
-\contentsline {section}{\numberline {4}Ionization fronts}{13}{section.4}
+\contentsline {part}{II\hspace {1em}II}{1}{part.2}
+\contentsline {section}{\numberline {1}Thermal Equilibrium of the ISM}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Cooling of the ISM: detailed balance, critical density}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Ionic \& atomic cooling of the ISM}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Molecular excitation \& molecular structure}{12}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Atomic/molecular coupling with radiation}{13}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Heating of the ISM}{20}{subsection.1.5}
+\contentsline {section}{\numberline {2}Molecule formation}{25}{section.2}
+\contentsline {subsection}{\numberline {2.1}Grain catalysis}{25}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Ion-molecule chemistry}{26}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Observational validation}{27}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Chemical fractionation}{30}{subsection.2.4}

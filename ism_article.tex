@@ -45,6 +45,13 @@
 \usepackage{amsfonts}
 \usepackage{latexsym}
 
+\renewcommand{\AA}{\text{\normalfont{A\!\!$^{\circ}$}}}
+\newcommand{\angstrom}{\text{\normalfont{A\!\!$^{\circ}$}}}
+
+\newcounter{saveenumi}
+\newcommand{\seti}{\setcounter{saveenumi}{\value{enumi}}}
+\newcommand{\conti}{\setcounter{enumi}{\value{saveenumi}}}
+
 
 %\usepackage{floatflt}                          
 
@@ -124,12 +131,12 @@
 %\input{./A/A}
 
 
-%\input{./B/B}
+\input{./B/B}
 
 %\input{./C/C}
 %\input{./D/D}
 
-\input{./E/E}
+%\input{./E/E}
 
 
 %\bibliography{/Users/simon/texinputs/adssample}

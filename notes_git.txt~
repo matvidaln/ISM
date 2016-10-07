@@ -1,0 +1,27 @@
+
+1- para clonar un repositorio:
+
+ git git@github.com:matvidaln/ISM.git
+
+
+2- para descargar la ultima version desde el repositorio: dentro del directorio que esta sincronizado, hacer 
+
+ git pull
+
+3- para ver como se compara la version local con la del repositorio:
+
+ git status
+
+
+4 - para agregar archivos:
+
+ git add filename.txt
+
+
+5 - para comprometer cambios 
+
+ git commit -m "comentario para describir cambios"
+
+6- para subir cambios 
+
+git push

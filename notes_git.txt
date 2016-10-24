@@ -19,7 +19,7 @@
 
 5 - para comprometer cambios 
 
- git commit -m "comentario para describir cambios"
+ git commit -am "comentario para describir cambios"
 
 6- para subir cambios 
 

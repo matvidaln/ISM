@@ -1,0 +1,151 @@
+\documentclass[12pt,letterpaper]{article}
+%\usepackage{epsfig,graphics}
+\setlength{\oddsidemargin}{-0.3in}
+\setlength{\evensidemargin}{-0.35in}
+\setlength{\topmargin}{-0in}
+\setlength{\headheight}{0in}
+\setlength{\footskip}{0.3in}
+\setlength{\headsep}{0.1in}
+\setlength{\textheight}{22cm}
+\setlength{\textwidth}{17cm}
+%\setlength{\parindent}{0in}
+\setlength{\marginparsep}{0in}
+\setlength{\marginparwidth}{0in}
+\pagestyle{empty}
+%\usepackage{multicol}
+\def\gs{\mathrel{\raise1.16pt\hbox{$>$}\kern-7.0pt
+\lower3.06pt\hbox{{$\scriptstyle \sim$}}}}
+\def\ls{\mathrel{\raise1.16pt\hbox{$<$}\kern-7.0pt
+\lower3.06pt\hbox{{$\scriptstyle \sim$}}}}
+
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage[pdftex]{graphicx}               %for importing graphics
+
+\usepackage{wrapfig}
+
+\begin{document}
+
+
+
+\begin{tabular*}{\textwidth} {@{\extracolsep{\fill}}lcr} \\ 
+   {\bf \large FI3001}  & {\bf \Large Tarea 1} &  {\small   Prof:      Simón Casassus} \\
+   {\small
+   }  &   & \\
+   \hline
+\end{tabular*}
+\begin{center}
+\vspace{0.1cm} {\small (Desarrolle sus respuestas y {\bf cuide la
+presentación}.  ) }
+\end{center}
+
+
+
+
+
+
+\begin{flushleft}
+\Large {\bf I } \underline{Part\'{\i}cula en un aro}.
+\end{flushleft}
+
+\begin{wrapfigure}[6]{l}{0.25\textwidth}
+\vspace{-1cm}
+  \includegraphics[width=0.24\textwidth]{./fig1_c1.jpg}
+\end{wrapfigure}
+\vspace{1cm} Una masa puntual $m$ puede deslizar sin roce sobre un
+anillo de radio $R$ colocado en posici\'on vertical en el campo
+gravitacional terrestre. El anillo gira con velocidad angular
+constante sobre un eje vertical que pasa por su centro y la masa $m$
+esta unida a un resorte de constante $k$ fijo al otro extremo en el
+punto mas bajo del anillo. El resorte tiene largo natural $R
+\theta_\circ$.
+\vspace{1cm}
+
+\begin{enumerate}
+\item {\tt( 2 pt)}~Escriba el Lagrangeano del sistema.
+
+\item {\tt( 2 pt)}~Escriba las cantidades conservadas del sistema. 
+
+\item {\tt( 1 pt)}~Defina un potencial efectivo para el sistema, tal que $d^2
+  \theta / dt^2 = - d V_\mathrm{eff}(\theta) / d \theta$.
+
+\item {\tt( 1 pt)}~Determine puntos fijos, con $\theta$ constante, y
+estudie su estabilidad.
+\end{enumerate}
+
+
+
+
+
+
+\begin{flushleft}
+\Large {\bf II } \underline{Fuerzas de Constricci\'on}.
+\end{flushleft}
+
+Una argolla de masa $m$ está restringida a moverse en una hélice que
+en coordenadas cilíndricas está dada por $r = a$ y $dz = b d\theta$,
+con $a$ y $b$ constantes. La argolla se mueve sin roce sobre esta
+hélice, y está también sujeta a un potencial $V(r,z) = k(r^2 +
+z^2)/2$. En $t=0 $ la argolla se lanza con velocidad $\dot{z}|_{t=0} =
+v_\circ$ desde $z|_{t=0} = 0$. Encuentre la fuerza de constricción que
+actúa sobre la partícula como función del tiempo utilizando el método
+de multiplicadores de Lagrange.
+
+
+\newpage
+
+\begin{flushleft}
+\Large {\bf III } \underline{Teoría en Mecánica Analítica}.
+\end{flushleft}
+
+%Una pregunta a elección (hay puntos extra si responde ambas): 
+
+\begin{enumerate}
+
+\item Enuncie el principio de d'Alembert y deduzca las ecuaciones de
+  Lagrange. 
+
+\item \underline{Cuerpo rígido}.
+\begin{enumerate}
+\item Demuestre que la velocidad de un punto $\vec{r}_\circ$ de un cuerpo rígido en un sistema inercial $S_\circ$ se puede escribir 
+\[
+\vec{v}_\circ =  \vec{V} + \vec{\Omega} \wedge \vec{r}, 
+\]
+en $\vec{V}$ es la velocidad del orígen de un sistema $S$ ligado al
+cuerpo, $\vec{r}$ es la posición de $\vec{r}_\circ$ en $S$,
+$\vec{\Omega}$ es el vector rotación angular. 
+
+
+\item Demuestre que el momentum angular de un cuerpo rígido en un
+  sistema inercial con orígen en el centro de masa es 
+\[
+L_i  = \sum_{\sigma = 1}^{N} m_\sigma \left.(\vec{r}_\sigma \wedge \vec{v}_\sigma)\right|_i =  I_{ik} \Omega_k, 
+\]
+donde $I$ es el tensor de inercia. 
+
+
+\item Escriba el Lagrangeano del cuerpo rígido usando $I$. 
+
+\item Demuestre que para un vector $\vec{A}$  cualquiera, 
+\[
+\left. \frac{d\vec{A}}{dt} \right|_\mathrm{inercial} =
+\left. \frac{d\vec{A}}{dt} \right|_\mathrm{cuerpo} + \vec{\Omega}
+\wedge \vec{A}, 
+\]
+y escriba las ecuaciones de movimiento de un cuerpo rígido libre, en
+$S_\circ$, pero con cantidades definidas en un sistema ligado al
+cuerpo y cuyos ejes diagonalizan a $I$. 
+
+\end{enumerate}
+
+\end{enumerate}
+
+
+
+
+
+\end{document}
+
+

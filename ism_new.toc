@@ -1,4 +1,4 @@
-\beamer@endinputifotherversion {3.36pt}
+\beamer@endinputifotherversion {3.24pt}
 \select@language {english}
 \beamer@sectionintoc {1}{Thermal Equilibrium of the ISM}{3}{2}{1}
 \beamer@subsectionintoc {1}{1}{Cooling of the ISM: detailed balance, critical density}{4}{2}{1}

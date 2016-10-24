@@ -16,10 +16,15 @@
 
  git add filename.txt
 
+ejemplos:
+git add tareas/* 
 
 5 - para comprometer cambios 
 
  git commit -am "comentario para describir cambios"
+
+ejemplos:
+git commit -am "con tareas"
 
 6- para subir cambios 
 
